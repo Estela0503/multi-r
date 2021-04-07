@@ -1,7 +1,6 @@
 # multi-r
  main
-no hay nada solo dice multi r
-=======
+#Multi-R asi dice 
 
 <p>miguel
  main
